@@ -1,0 +1,38 @@
+{
+  "name": "Rakan.ID",
+  "short_name": "RAKAN.ID",
+  "start_url": "https://www.rakan.id/",
+  "display": "standalone",
+  "background_color": "#eaeaea",
+  "theme_color": "#ce0a46",
+  "description": "Personal Blog Game",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-e8HHZH7cQbY/XkW99wlxihI/AAAAAAAAAFs/Mza0ro99JeoqpYe7hEY5IX12FZPziLoKgCLcBGAsYHQ/s48/favicon48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-rYKEeDYmJvQ/XkW9-OxDrHI/AAAAAAAAAF0/eTN1wQupWI4EQa6H1M7UWsQKax3G20KBwCLcBGAsYHQ/s72/favicon72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-i5mdbzW2C-I/XkW9-2NfdpI/AAAAAAAAAF4/zjAl9UlRGzwhI7nfCEuKSKXGG70qtCJcgCLcBGAsYHQ/s96/favicon96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-0a1HtEJ1Gj8/XkW98_zg7UI/AAAAAAAAAFk/VUBmGVR-Yjg0R_3putLFnX2omP5vYt97QCLcBGAsYHQ/s144/favicon144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-aaGnTyMCReM/XkW98xuRBKI/AAAAAAAAAFo/3DQUoqQXlTIL5jsvxEz87hV3kuIbuRjeQCLcBGAsYHQ/s168/favicon168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-m5kvW5SrzWw/XkW98wV2EjI/AAAAAAAAAFg/ger9U3FLNMoltBFMVKvGp0y-sms8e_3XACLcBGAsYHQ/s192/favicon192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-DqY9yyiq4E8/XkW992hALYI/AAAAAAAAAFw/irs3oh2tJNoo6LUBWeSlmYMlu3TyKw0ggCLcBGAsYHQ/s512/favicon512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
